@@ -3,8 +3,9 @@
 	font-family: cursive;
 	font-weight: 800;
 	background-color: #414141;
-    border: 3px blue;
+    border: 8px red;
 	box-sizing: border-box;
+	padding: 50px 10px 5px 10px;
   }	 
   td, th {
 	border: 1px solid;
