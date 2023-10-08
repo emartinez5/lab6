@@ -1,11 +1,11 @@
-td, th {
+  h1 {
+    color: #6495ED;   
+	font-weight: 300;
+
+  }	 
+  td, th {
 	border: 1px solid;
 	font-family: cursive;
   }
-  
- h1 {
-    color: #6495ED;   
 
-  }	 
-  
   
