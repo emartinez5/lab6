@@ -24,4 +24,6 @@
   tr:hover{
 	  background-color: #FFFDD0;
   }
-  
+  table{
+	  border-collapse: collapse;
+  }
