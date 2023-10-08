@@ -6,14 +6,23 @@
     border: 8px solid #17252A;
 	box-sizing: border-box;
 	padding: 5px 10px 5px 10px;
-	margin: 5px 10px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1500px;
+	text-align: center;
   }	 
   td, th {
 	color: #2B7A78;  
-	border: 1px solid;
+	border: 3px solid;
 	font-family: cursive;
 	text-align: center;
-	padding: 10px;
+	padding: 10px;  
+  }
+  td:nth-child(1){
+	  background-color: #3AAFA9;
+	  color: #17252A;
+	  font-size: 20px;
+	  font-weight: 700;
   }
   th{
 	height: 70px;
@@ -26,4 +35,10 @@
   }
   table{
 	  border-collapse: collapse;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 500px;
+  }
+  body{
+	  background-color: lightblue;
   }
