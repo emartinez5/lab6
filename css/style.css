@@ -4,6 +4,7 @@
 	font-weight: 800;
 	background-color: #414141;
     border: 3px blue;
+	box-sizing: border-box;
   }	 
   td, th {
 	border: 1px solid;
